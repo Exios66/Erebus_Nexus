@@ -15,28 +15,43 @@ The Sinking Slums, also known as the Undercity, form the lowest habitable layer 
 ## Subsections
 
 ### [Barter and Scrip Economy](./barter_scrip_economy)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0410806 (09.20.24)
 - [Description](./barter_scrip_economy/description.md)
 - [Symbolism](./barter_scrip_economy/symbolism.md)
 - [Economic Dynamics](./barter_scrip_economy/economic_dynamics.md)
 
 ### Social Structure
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0410806 (09.20.24)
 - Gang hierarchies and territories
 - Community support networks
 
 ### Survival Strategies
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0410806 (09.20.24)
 - Scavenging and recycling practices
 - Underground farming and water collection methods
 
 ### Black Markets
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0410806 (09.20.24)
 - Illegal goods and services
 - Connections to upper tier criminal elements
 
 ### Technology
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0410806 (09.20.24)
 - Repurposed and jury-rigged devices
 - Information networks and communication systems
 
@@ -59,4 +74,8 @@ Life in the Sinking Slums is fraught with numerous challenges:
 - Exploitation by upper tier corporations and criminal organizations
 - The psychological toll of living in a perpetual state of scarcity and danger
 
+<<<<<<< HEAD
 Despite these challenges, the Sinking Slums are home to a vibrant subculture and a population known for its resilience and ingenuity. The tier represents both the stark inequality of Erebus Nexus and the indomitable human spirit in the face of adversity.
+=======
+Despite these challenges, the Sinking Slums are home to a vibrant subculture and a population known for its resilience and ingenuity. The tier represents both the stark inequality of Erebus Nexus and the indomitable human spirit in the face of adversity.
+>>>>>>> 0410806 (09.20.24)

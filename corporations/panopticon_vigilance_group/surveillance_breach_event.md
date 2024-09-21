@@ -49,4 +49,8 @@ The Omniscient Eye Incident had far-reaching effects on Erebus Nexus:
 - Resulted in the "Data Rights Act," establishing new regulations for corporate surveillance and data collection.
 - Inspired a new genre of paranoia-driven entertainment in Erebus Nexus media.
 
+<<<<<<< HEAD
 The incident remains a pivotal moment in the history of Erebus Nexus, serving as a stark reminder of the power of information and the vulnerabilities inherent in a hyper-connected society. It continues to influence discussions on governance, technology, and individual rights within the megacity.
+=======
+The incident remains a pivotal moment in the history of Erebus Nexus, serving as a stark reminder of the power of information and the vulnerabilities inherent in a hyper-connected society. It continues to influence discussions on governance, technology, and individual rights within the megacity.
+>>>>>>> 0410806 (09.20.24)

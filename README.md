@@ -1,0 +1,2 @@
+# Erebus_Nexus
+ **Erebus Nexus** is a meticulously crafted universe set in a sprawling, dystopian galaxy where economic stratification, corporate dominance, and clandestine operations shape the lives of its inhabitants. This repository encapsulates the multifaceted layers of Erebus Nexus, providing detailed insights into its economic systems, corporate hierarchies, societal divisions, and the shadowy entities that manipulate events from behind the scenes.

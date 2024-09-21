@@ -51,15 +51,20 @@ Contains profiles and significant events related to major corporations operating
 
 ### Economic Tiers
 
-Encapsulates all economic layers of Erebus Nexus, detailing their unique currencies, symbolism, and economic dynamics.
+Encapsulates all economic layers of Erebus Nexus, detailing their unique currencies, symbolism, and economic dynamics. Each tier has its own directory with comprehensive documentation.
 
-- **olympus_tier/**
-  - [credit_coin_economy.md](economic_tiers/olympus_tier/credit_coin_economy.md): Overview of the Credit-Coin Economy in the Olympus Tier.
-- **machine_layer/**: The Midcity with the Energy Credit System.
-- **sinking_slums/**: The Undercity relying on Barter and Scrip Economy.
-- **forgotten_sector/**: The sector focused on Relic Trade System.
-- **sprawl/**: The chaotic Sprawl with Anarcho-Hybrid Economy.
-- **isle_of_paradise/**: The elite retreat operating the Exclusivity Economy.
+- **[olympus_tier/](economic_tiers/olympus_tier/)**
+  - [credit_coin_economy/](economic_tiers/olympus_tier/credit_coin_economy/): The Credit-Coin Economy of the elite.
+- **[machine_layer/](economic_tiers/machine_layer/)**
+  - [energy_credit_system/](economic_tiers/machine_layer/energy_credit_system/): The Energy Credit System of the industrial heart.
+- **[sinking_slums/](economic_tiers/sinking_slums/)**
+  - [barter_scrip_economy/](economic_tiers/sinking_slums/barter_scrip_economy/): The Barter and Scrip Economy of the lower tiers.
+- **[forgotten_sector/](economic_tiers/forgotten_sector/)**
+  - [relic_trade_system/](economic_tiers/forgotten_sector/relic_trade_system/): The Relic Trade System of the abandoned areas.
+- **[sprawl/](economic_tiers/sprawl/)**
+  - [anarcho_hybrid_economy/](economic_tiers/sprawl/anarcho_hybrid_economy/): The Anarcho-Hybrid Economy of the fringe.
+- **[isle_of_paradise/](economic_tiers/isle_of_paradise/)**
+  - [exclusivity_economy/](economic_tiers/isle_of_paradise/exclusivity_economy/): The Exclusivity Economy of the ultra-elite retreat.
 
 ### Shell Corporations
 
@@ -160,7 +165,7 @@ Please refer to our contribution guidelines for more detailed information.
 
 ## Changelog
 
-For a detailed list of changes and version history, please see the [CHANGELOG.md](CHANGELOG.md) file.
+For a detailed list of changes and version history, please see the [CHANGELOG.md](CHANGELOG.md) file. This changelog is regularly updated to reflect the latest additions and modifications to the repository.
 
 ## License
 

@@ -15,23 +15,28 @@ The Sinking Slums, also known as the Undercity, form the lowest habitable layer 
 ## Subsections
 
 ### [Barter and Scrip Economy](./barter_scrip_economy)
+
 - [Description](./barter_scrip_economy/description.md)
 - [Symbolism](./barter_scrip_economy/symbolism.md)
 - [Economic Dynamics](./barter_scrip_economy/economic_dynamics.md)
 
 ### Social Structure
+
 - Gang hierarchies and territories
 - Community support networks
 
 ### Survival Strategies
+
 - Scavenging and recycling practices
 - Underground farming and water collection methods
 
 ### Black Markets
+
 - Illegal goods and services
 - Connections to upper tier criminal elements
 
 ### Technology
+
 - Repurposed and jury-rigged devices
 - Information networks and communication systems
 

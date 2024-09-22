@@ -15,23 +15,28 @@ The Olympus Tier represents the pinnacle of society in Erebus Nexus, a realm of 
 ## Subsections
 
 ### [Credit-Coin Economy](./credit_coin_economy)
+
 - [Description](./credit_coin_economy/description.md)
 - [Symbolism](./credit_coin_economy/symbolism.md)
 - [Economic Dynamics](./credit_coin_economy/economic_dynamics.md)
 
 ### Social Structure
+
 - Hierarchies within the elite
 - Social customs and etiquette
 
 ### Governance
+
 - The role of AI in day-to-day management
 - Relationship with The Council
 
 ### Technology
+
 - Exclusive technological advancements
 - Integration of AI in personal life
 
 ### Culture and Lifestyle
+
 - Art and entertainment
 - Education and knowledge access
 

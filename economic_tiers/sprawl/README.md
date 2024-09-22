@@ -15,23 +15,28 @@ The Sprawl is a vast, chaotic expanse that exists on the outermost edges of Ereb
 ## Subsections
 
 ### [Anarcho-Hybrid Economy](./anarcho_hybrid_economy)
+
 - [Description](./anarcho_hybrid_economy/description.md)
 - [Symbolism](./anarcho_hybrid_economy/symbolism.md)
 - [Economic Dynamics](./anarcho_hybrid_economy/economic_dynamics.md)
 
 ### Autonomous Communities
+
 - Types of settlements and their organizational structures
 - Inter-community relations and conflict resolution mechanisms
 
 ### Technological Innovation
+
 - Repurposed and hybrid technologies
 - Open-source networks and information sharing
 
 ### Cultural Expression
+
 - Art and music scenes
 - Philosophical movements and subcultures
 
 ### Environmental Adaptation
+
 - Strategies for surviving in harsh or toxic environments
 - Sustainable living practices and permaculture experiments
 

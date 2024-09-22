@@ -7,21 +7,25 @@ In the intricate world of Erebus Nexus, proxies and front companies play a pivot
 ## Types of Proxies
 
 ### 1. Individual Proxies (Nominees)
+
 - Hired individuals who lend their names to company registrations
 - Often unaware of the full scope of operations
 - May include both willing participants and manipulated individuals
 
 ### 2. Corporate Proxies
+
 - Existing companies that act on behalf of shell corporations
 - May have legitimate business operations as cover
 - Often operate in multiple jurisdictions
 
 ### 3. AI-Driven Virtual Proxies
+
 - Advanced AI systems that manage and represent shell corporations
 - Capable of making decisions and conducting transactions
 - Highly resistant to traditional investigation methods
 
 ### 4. Synthetic Identities
+
 - Fabricated individuals created through a mix of real and false information
 - Used for both individual and corporate proxy purposes
 - Extremely difficult to trace back to real operators
@@ -29,21 +33,25 @@ In the intricate world of Erebus Nexus, proxies and front companies play a pivot
 ## Front Company Categories
 
 ### 1. Legitimate-Appearing Businesses
+
 - Companies with actual operations in various sectors
 - Used to launder money and provide cover for illicit activities
 - Often operate in cash-intensive industries
 
 ### 2. Dormant Companies
+
 - Registered but inactive companies
 - Activated as needed for specific operations
 - Provide a sense of longevity and legitimacy when required
 
 ### 3. Special Purpose Vehicles (SPVs)
+
 - Created for specific financial transactions or projects
 - Often used in complex financial engineering schemes
 - Provide additional layers of obscurity in financial operations
 
 ### 4. Non-Profit Organizations
+
 - Exploit the less stringent oversight of charitable organizations
 - Used for both money laundering and influence operations
 - Provide positive public relations cover for shell corporation networks

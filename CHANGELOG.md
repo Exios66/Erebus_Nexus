@@ -4,29 +4,54 @@ All notable changes to the **Erebus Nexus** repository will be documented in thi
 
 ## [Unreleased]
 
-### Added
+### Added in [Unreleased]
+
 - Automated changelog generation using `auto-changelog` and GitHub Actions
 
-## [1.0.2] - 2024-09-20
+### Added in 1.0.4
 
-### Added
+- **shell_corporations/behavior_and_operation/cloaked_transactions.md**: Added new entry detailing the use of cloaked transactions in shell corporations.
+
+## [1.0.4] - 2024-09-21
+
+### Added in [1.0.4]
+
+shadow_coordination_bureau/: Created with files for key personnel and operations.
+world_layers/: Structured with different layers of the world and their characteristics.
+bureaucratic_entities/: Created with files for The Council and Panopticon Vigilance Group.
+characters/: Populated with files for Lucius Morningstar, Scarlet Quinn, and Eidolon.
+media_shows/: Created with files for Chrome After Dark and Election Cycle Specials.
+
+### Added in [1.0.4.1]
+
+- **shell_corporations/behavior_and_operation/cloaked_transactions.md**: Added new entry detailing the use of cloaked transactions in shell corporations.
+- **shell_corporations/compartmentalization.md**: Added new entry detailing the use of compartmentalization in shell corporations.
+
+## [1.0.3] - 2024-09-20
+
+### Added in [1.0.3]
+
 - **characters/eidolon/cognitive_diaries.md**: Added new entries detailing the self-discovery journey of the AI Eidolon.
 - **characters/scarlet_quinn/dossier_of_exploits.md**: Introduced a dossier outlining the exploits and background of Scarlet Quinn.
 - **media_shows/chrome_after_dark/episode_2.md**: Added episode 2, "Digital Whispers," exploring digital consciousness and ethical dilemmas.
+- **shell_corporations/behavior_and_operation/rotating_boards.md**: Added new entry detailing the use of rotating boards in shell corporations.
 
 ## [1.0.1] - 2024-04-27
 
-### Added
+### Added in [1.0.1]
+
 - Initial repository structure with core directories and markdown files.
 - Comprehensive documentation for economic tiers, shell corporations, and other key elements.
 
-### Fixed
+### Fixed in [1.0.1]
+
 - Corrected directory naming inconsistencies in the Shell Corporations directory.
 - Updated `README.md` with additional guidance on repository structure.
 
 ## [1.0.0] - 2024-04-27
 
-### Added
+### Added in [1.0.0]
+
 - Detailed economic tiers including Olympus Tier, Machine Layer, Sinking Slums, Forgotten Sector, Sprawl, and Isle of Paradise.
 - Shell Corporations documentation covering pyramidal layers, compartmentalization, proxies and fronts, behavior and operation, and types of shell companies.
 - Profiles and events for major corporations such as Nephilim Finance Group, Zephyrian Technologies, Archon Resource Conglomerate, Prometheus Innovations, and Panopticon Vigilance Group.
@@ -43,7 +68,7 @@ This changelog is automatically updated using `auto-changelog` and GitHub Action
 1. Use [Semantic Versioning](https://semver.org/) for version numbers.
 2. Follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification for commit messages.
 
-### Commit Message Format:
+### Commit Message Format in [1.0.0]
 
 ```plaintext
 <type>(<scope>): <description>
@@ -53,7 +78,7 @@ This changelog is automatically updated using `auto-changelog` and GitHub Action
 [optional footer(s)]
 ```
 
-### Types
+### Types in [1.0.0]
 
 - `feat`: A new feature
 - `fix`: A bug fix
@@ -64,12 +89,15 @@ This changelog is automatically updated using `auto-changelog` and GitHub Action
 - `test`: Adding or updating tests
 - `chore`: Other changes that don't modify src or test files
 
-### Example
+### Example in [1.0.0]
 
 ```plaintext
 feat(economic_tiers): add new exclusivity economy for Isle of Paradise
 feat(shell_corporations): add new compartmentalization for shell corporations
 feat(world_layers): add new world layers for Erebus Nexus
+feat(bureaucratic_entities): add new bureaucratic entities for The Council and Panopticon Vigilance Group
+feat(characters): add new characters for Lucius Morningstar, Scarlet Quinn, and Eidolon
+feat(media_shows): add new media shows for Chrome After Dark and Election Cycle Specials
 
 Introduced the Exclusivity Economy system with detailed symbolism and economic dynamics.
 This new system is designed to enhance the narrative of the Isle of Paradise and its societal structure.
@@ -78,4 +106,4 @@ This new system is designed to enhance the narrative of the Isle of Paradise and
 Closes #45
 ```
 
-The changelog will be automatically updated on each push to the `main` branch and on each published release.
+The changelog will be automatically updated on each push to the `main` branch and on each published release. The `auto-changelog` tool will generate the changelog based on the commit history and the provided version numbers.

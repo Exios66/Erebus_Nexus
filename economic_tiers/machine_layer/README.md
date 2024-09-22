@@ -15,43 +15,28 @@ The Machine Layer, also known as the Midcity, is the industrial heart of Erebus 
 ## Subsections
 
 ### [Energy Credit System](./energy_credit_system)
-<<<<<<< HEAD
 
-=======
->>>>>>> 0410806 (09.20.24)
 - [Description](./energy_credit_system/description.md)
 - [Symbolism](./energy_credit_system/symbolism.md)
 - [Economic Dynamics](./energy_credit_system/economic_dynamics.md)
 
 ### Industrial Complexes
-<<<<<<< HEAD
 
-=======
->>>>>>> 0410806 (09.20.24)
 - Types of factories and their specializations
 - Automation systems and protocols
 
 ### Cybernetic Integration
-<<<<<<< HEAD
 
-=======
->>>>>>> 0410806 (09.20.24)
 - Common cybernetic enhancements
 - Human-machine interface technologies
 
 ### Data Management
-<<<<<<< HEAD
 
-=======
->>>>>>> 0410806 (09.20.24)
 - Structure and function of data centers
 - Information flow and processing hierarchies
 
 ### Social Structure
-<<<<<<< HEAD
 
-=======
->>>>>>> 0410806 (09.20.24)
 - Technocratic governance
 - Labor unions and worker collectives
 
@@ -73,8 +58,4 @@ Despite its efficiency, the Machine Layer faces several ongoing issues:
 - Environmental stress from industrial processes affecting lower tiers
 - Vulnerability to cyber attacks and system malfunctions that can paralyze entire sectors
 
-<<<<<<< HEAD
 The Machine Layer represents the relentless drive for progress and efficiency in Erebus Nexus, showcasing both the potential and the pitfalls of a society deeply integrated with technology.
-=======
-The Machine Layer represents the relentless drive for progress and efficiency in Erebus Nexus, showcasing both the potential and the pitfalls of a society deeply integrated with technology.
->>>>>>> 0410806 (09.20.24)

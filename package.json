@@ -1,0 +1,15 @@
+{
+  "name": "erebus-nexus",
+  "version": "1.0.0",
+  "description": "Erebus Nexus Repository",
+  "scripts": {
+    "generate-changelog": "auto-changelog --commit-limit false",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
+    "auto-changelog": "^2.4.0",
+    "husky": "^8.0.0"
+  }
+}

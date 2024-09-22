@@ -1,0 +1,10 @@
+{
+  "output": "CHANGELOG.md",
+  "template": "keepachangelog",
+  "unreleased": true,
+  "commitLimit": false,
+  "breakingPattern": "BREAKING CHANGE:",
+  "ignoreCommitPattern": "^docs: update changelog",
+  "sortCommits": "date-desc",
+  "includeBranch": ["main"]
+}

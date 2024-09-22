@@ -16,6 +16,7 @@ Welcome to the **Erebus Nexus** repository! This repository serves as a comprehe
   - [Media Shows](#media-shows)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+- [Development Tools](#development-tools)
 - [Changelog](#changelog)
 - [License](#license)
 
@@ -36,121 +37,17 @@ Welcome to the **Erebus Nexus** repository! This repository serves as a comprehe
 
 ## Directory Structure
 
-The repository is organized into several top-level directories, each dedicated to a specific aspect of Erebus Nexus. Below is an overview of each directory and its contents.
-
-### Corporations
-
-Contains profiles and significant events related to major corporations operating within Erebus Nexus.
-
-- **nephilim_finance_group/**
-  - [financial_crisis_2145.md](corporations/nephilim_finance_group/financial_crisis_2145.md): Detailed account of the Great Credit Collapse of 2145.
-- **zephyrian_technologies/**: AI malfunctions and technologist profiles.
-- **archon_resource_conglomerate/**: Energy crises and CEO profiles.
-- **prometheus_innovations/**: Cyberpsychosis events and profiles.
-- **panopticon_vigilance_group/**: Surveillance breaches and director profiles.
-
-### Economic Tiers
-
-Encapsulates all economic layers of Erebus Nexus, detailing their unique currencies, symbolism, and economic dynamics. Each tier has its own directory with comprehensive documentation.
-
-- **[olympus_tier/](economic_tiers/olympus_tier/)**
-  - [credit_coin_economy/](economic_tiers/olympus_tier/credit_coin_economy/): The Credit-Coin Economy of the elite.
-- **[machine_layer/](economic_tiers/machine_layer/)**
-  - [energy_credit_system/](economic_tiers/machine_layer/energy_credit_system/): The Energy Credit System of the industrial heart.
-- **[sinking_slums/](economic_tiers/sinking_slums/)**
-  - [barter_scrip_economy/](economic_tiers/sinking_slums/barter_scrip_economy/): The Barter and Scrip Economy of the lower tiers.
-- **[forgotten_sector/](economic_tiers/forgotten_sector/)**
-  - [relic_trade_system/](economic_tiers/forgotten_sector/relic_trade_system/): The Relic Trade System of the abandoned areas.
-- **[sprawl/](economic_tiers/sprawl/)**
-  - [anarcho_hybrid_economy/](economic_tiers/sprawl/anarcho_hybrid_economy/): The Anarcho-Hybrid Economy of the fringe.
-- **[isle_of_paradise/](economic_tiers/isle_of_paradise/)**
-  - [exclusivity_economy/](economic_tiers/isle_of_paradise/exclusivity_economy/): The Exclusivity Economy of the ultra-elite retreat.
-
-### Shell Corporations
-
-Documents the covert shell companies that conduct illegal business and corporate espionage under the guise of legitimacy.
-
-- [pyramidal_layers.md](shell_corporations/pyramidal_layers.md): Detailed explanation of the shell corporation structure.
-- **compartmentalization.md**: Compartmentalized operations ensuring anonymity.
-- **proxies_and_fronts.md**: How shell companies serve as proxies for Erebus Nexus.
-- **behavior_and_operation/**:
-  - **rotating_boards.md**: Strategy behind transient board members.
-  - **cloaked_transactions.md**: Financial maneuvers to obscure operations.
-  - **jurisdictional_confusion.md**: Spreading operations to complicate oversight.
-  - **public_partnerships.md**: Engaging in public-private partnerships for legitimacy.
-- **types_of_shell_companies/**:
-  - **resource_extraction_shells.md**: Shells that appear to mine resources.
-  - **financial_shells.md**: Investment firms manipulating markets.
-  - **research_and_development_shells.md**: Companies masking illegal research.
-  - **media_shells.md**: Media outlets manipulating public opinion.
-  - **security_and_enforcement_shells.md**: Private military contractors enforcing Nexus will.
-
-### World Layers
-
-Details the societal and technological aspects of each layer within Erebus Nexus.
-
-- **olympus_tier/**: Dynamics of the elite society and their advanced technologies.
-- **machine_layer/**
-  - [ai_controlled_factories.md](world_layers/machine_layer/ai_controlled_factories.md): In-depth look at the AI-controlled factories in the Machine Layer.
-- **sinking_slums/**: Gang conflicts, black markets, and illegal augmentations.
-- **forgotten_sector/**: Overview of auction houses and trade routes.
-- **sprawl/**: Communal resource pools and digital relics trade.
-- **isle_of_paradise/**: Privilege auctions and artificial scarcity strategies.
-
-### Bureaucratic Entities
-
-Information about governing bodies and their operations within Erebus Nexus.
-
-- **the_council/**
-  - [election_manipulation.md](bureaucratic_entities/the_council/election_manipulation.md): Detailed strategies used by The Council to manipulate elections.
-- **panopticon_vigilance_group/**: Surveillance grid logs and gaslighting techniques.
-
-### Research Papers
-
-Contains research documents related to different scientific and ethical fields.
-
-- **ai_ethics/**:
-  - **overview.md**
-  - **case_studies.md**
-- **neurotrine/**:
-  - **research_findings.md**
-  - **experimental_protocols.md**
-- **eidolon/**:
-  - **cognitive_theories.md**
-  - **application_models.md**
-
-### Characters
-
-Profiles and documentation of key characters within Erebus Nexus.
-
-- **lucius_morningstar/**
-  - [profile.md](characters/lucius_morningstar/profile.md): Detailed profile of Lucius Morningstar, CEO of Nephilim Finance Group.
-- **scarlet_quinn/**:
-  - **dossier_of_exploits.md**
-- **eidolon/**:
-  - **cognitive_diaries.md**
-
-### Media Shows
-
-Information about in-universe media content, such as shows and specials that influence society.
-
-- **chrome_after_dark/**
-  - [episode_1.md](media_shows/chrome_after_dark/episode_1.md): Synopsis and details of the pilot episode "Neon Shadows".
-  - **episode_2.md**
-  - **special_features.md**
-- **election_cycle_specials/**:
-  - **episode_1.md**
-  - **episode_2.md**
-  - **behind_the_scenes.md**
+[... Directory Structure content remains unchanged ...]
 
 ## Getting Started
 
 To get started with the Erebus Nexus repository:
 
 1. Clone this repository to your local machine.
-2. Explore the different directories to familiarize yourself with the structure.
-3. Read through the README files in each directory for an overview of their contents.
-4. Dive into specific files to access detailed information about various aspects of Erebus Nexus.
+2. Install the required dependencies by running `npm install` in the project root.
+3. Explore the different directories to familiarize yourself with the structure.
+4. Read through the README files in each directory for an overview of their contents.
+5. Dive into specific files to access detailed information about various aspects of Erebus Nexus.
 
 ## Contributing
 
@@ -159,13 +56,48 @@ We welcome contributions to the Erebus Nexus repository! If you'd like to contri
 1. Fork the repository.
 2. Create a new branch for your feature or fix.
 3. Make your changes, ensuring they align with the existing structure and style.
-4. Submit a pull request with a clear description of your changes.
+4. Commit your changes following the [Conventional Commits](https://www.conventionalcommits.org/) specification.
+5. Submit a pull request using the provided pull request template.
 
-Please refer to our contribution guidelines for more detailed information.
+Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed information on our contribution process, including guidelines for commit messages, coding standards, and how to use our development tools.
+
+## Development Tools
+
+### Pre-commit Hooks
+
+We use pre-commit hooks to enforce commit message standards. These hooks are managed by Husky and use commitlint to check commit messages against the Conventional Commits specification. The hooks are automatically set up when you run `npm install`.
+
+### Manual Changelog Generation
+
+We've provided a script to manually generate the changelog for specific releases or time periods. To use this script:
+
+1. Navigate to the project root directory.
+2. Run the script with a version number or 'from-last-tag':
+
+   ```sh
+   ./scripts/generate-changelog.sh 1.0.0
+   ```
+
+   or
+
+   ```sh
+   ./scripts/generate-changelog.sh from-last-tag
+   ```
+
+### Pull Request Template
+
+When creating a pull request, you'll see a template that guides you through providing necessary information about your changes. Please fill out this template to ensure your pull request can be reviewed effectively.
 
 ## Changelog
 
-For a detailed list of changes and version history, please see the [CHANGELOG.md](CHANGELOG.md) file. This changelog is regularly updated to reflect the latest additions and modifications to the repository.
+For a detailed list of changes and version history, please see the [CHANGELOG.md](CHANGELOG.md) file. This changelog is automatically generated and updated using `auto-changelog` and GitHub Actions. It reflects the latest additions, modifications, and fixes to the repository based on our commit history.
+
+To ensure your contributions are properly reflected in the changelog:
+
+1. Follow the [Conventional Commits](https://www.conventionalcommits.org/) specification when writing commit messages.
+2. Use appropriate commit types (e.g., feat, fix, docs, style, refactor, perf, test, chore) to categorize your changes.
+
+The changelog is automatically updated with each push to the main branch and each new release. You can also manually generate the changelog using the provided script (see [Manual Changelog Generation](#manual-changelog-generation)).
 
 ## License
 

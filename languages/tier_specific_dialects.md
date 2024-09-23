@@ -6,7 +6,7 @@ The stratified nature of Erebus Nexus has led to the development of distinct lin
 
 The Olympus Tier Dialect is a sophisticated linguistic form characterized by a high degree of technological and scientific terminology. It is heavily influenced by the elite educational institutions and research facilities that dominate this tier.
 
-- **Lexicon**: The vocabulary is rich with specialized terms from fields such as quantum physics, advanced AI, and biotechnology, making it somewhat inaccessible to those from lower tiers. 
+- **Lexicon**: The vocabulary is rich with specialized terms from fields such as quantum physics, advanced AI, and biotechnology, making it somewhat inaccessible to those from lower tiers.
 - **AI Interface Language (AIL)**: Elements of AIL are seamlessly integrated into everyday speech, allowing for rapid communication of complex ideas. Phrases like "uploading cognitive load" are common.
 - **Vocal Modulations**: Subtle vocal modulations, influenced by augmented vocal cords, create a melodic quality to speech, often making it sound almost musical.
 - **Cultural References**: The dialect frequently includes references to classical literature, philosophy, and art, reflecting the tier's cultural pretensions and the residents' desire to align themselves with historical intellectualism.

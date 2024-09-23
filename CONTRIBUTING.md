@@ -119,17 +119,14 @@ We use pre-commit hooks to enforce commit message standards. These hooks are man
 To set up the pre-commit hooks:
 
 1. Install the necessary dependencies:
-   ```
-   npm install --save-dev husky @commitlint/cli @commitlint/config-conventional
-   ```
 
-2. Enable Husky:
-   ```
+   ```bash
    npx husky install
    ```
 
-3. Add the pre-commit hook:
-   ```
+2. Add the pre-commit hook:
+
+   ```bash
    npx husky add .husky/pre-commit "npx --no-install commitlint --edit $1"
    ```
 
@@ -141,11 +138,14 @@ We've provided a script to manually generate the changelog for specific releases
 
 1. Navigate to the project root directory.
 2. Run the script with a version number or 'from-last-tag':
-   ```
+
+   ```bash
    ./scripts/generate-changelog.sh 1.0.0
    ```
+
    or
-   ```
+
+   ```bash
    ./scripts/generate-changelog.sh from-last-tag
    ```
 

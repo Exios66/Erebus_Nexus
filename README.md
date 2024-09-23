@@ -15,6 +15,11 @@ Welcome to the **Erebus Nexus** repository! This repository serves as a comprehe
   - [Characters](#characters)
   - [Media Shows](#media-shows)
   - [Literature Series](#literature-series)
+  - [Technology](#technology)
+  - [Culture and Society](#culture-and-society)
+  - [History](#history)
+  - [Geography and Environment](#geography-and-environment)
+  - [Languages](#languages)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Development Tools](#development-tools)
@@ -36,78 +41,125 @@ Welcome to the **Erebus Nexus** repository! This repository serves as a comprehe
 - **Characters**: Meet the key characters whose stories and actions drive the narrative of Erebus Nexus.
 - **Media Shows**: Discover the in-universe media content that influences public perception and societal norms.
 - **Literature Series**: Explore the narrative elements of the Erebus Nexus story, including acts, chapters, subplots, and scenes.
+- **Technology**: Examine the technological advancements and their impact on society across different tiers.
+- **Culture and Society**: Investigate the diverse cultural aspects, traditions, and societal norms within Erebus Nexus.
+- **History**: Uncover the historical events and figures that shaped the current state of Erebus Nexus.
+- **Geography and Environment**: Explore the physical layout, climate, and environmental challenges of the city.
+- **Languages**: Discover the linguistic diversity and how it reflects the social structure of Erebus Nexus.
 
 ## Directory Structure
 
-[... Previous Directory Structure content remains unchanged ...]
+### Corporations
+
+[Content for Corporations]
+
+### Economic Tiers
+
+[Content for Economic Tiers]
+
+### Shell Corporations
+
+[Content for Shell Corporations]
+
+### World Layers
+
+[Content for World Layers]
+
+### Bureaucratic Entities
+
+[Content for Bureaucratic Entities]
+
+### Research Papers
+
+[Content for Research Papers]
+
+### Characters
+
+[Content for Characters]
+
+### Media Shows
+
+[Content for Media Shows]
 
 ### Literature Series
 
 The `/literature_series/` directory contains the narrative elements of the Erebus Nexus story:
 
 - `/act_1/` and `/act_2/`: Each act contains subdirectories for chapters, subplots, and scenes.
+- `/in_progress_novels/`: Contains chapters and sections from specific novels that are currently in progress.
 - `README.md`: Provides an overview of the literature series structure and guidelines for content creation.
+
+### Technology
+
+The `/technology/` directory explores the technological landscape of Erebus Nexus:
+
+- `/advancements/`: Breakthroughs and cutting-edge technologies
+- `/everyday_tech/`: Common technologies used in different tiers
+- `/restricted_tech/`: Technologies limited to certain tiers or groups
+- `/impact/`: How technology shapes society and the environment
+
+### Culture and Society
+
+The `/culture_and_society/` directory delves into the cultural aspects and societal norms:
+
+- `/tier_specific_cultures/`: Cultural norms and practices unique to each economic tier
+- `/subcultures/`: Distinct cultural groups within the larger society
+- `/traditions/`: Rituals, celebrations, and customs
+- `/social_dynamics/`: Interpersonal relationships and social structures
+
+### History
+
+The `/history/` directory contains information about the historical development of Erebus Nexus:
+
+- `/timeline/`: Chronological overview of major events
+- `/key_events/`: Detailed accounts of pivotal moments in history
+- `/historical_figures/`: Profiles of individuals who shaped Erebus Nexus
+- `/era_overviews/`: Summaries of different historical periods
+
+### Geography and Environment
+
+The `/geography_and_environment/` directory provides information about the physical world of Erebus Nexus:
+
+- `/physical_layout/`: Detailed descriptions of the city's structure and layers
+- `/climate/`: Information about weather patterns and environmental conditions
+- `/ecosystems/`: Natural and artificial ecosystems within the city
+- `/environmental_challenges/`: Issues like pollution, resource scarcity, and their impacts
+
+### Languages
+
+The `/languages/` directory explores the linguistic diversity of Erebus Nexus:
+
+- `/common_languages/`: Widely spoken languages across the city
+- `/tier_specific_dialects/`: Unique linguistic variations in each economic tier
+- `/corporate_jargon/`: Specialized language used in business and corporate settings
+- `/underground_slang/`: Informal language used in lower tiers and subcultures
 
 ## Getting Started
 
-To get started with the Erebus Nexus repository:
+### Contributing
 
-1. Clone this repository to your local machine.
-2. Install the required dependencies by running `npm install` in the project root.
-3. Explore the different directories to familiarize yourself with the structure.
-4. Read through the README files in each directory for an overview of their contents.
-5. Dive into specific files to access detailed information about various aspects of Erebus Nexus.
+To clone the Erebus Nexus repository, follow these steps:
 
-## Contributing
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
 
-We welcome contributions to the Erebus Nexus repository! If you'd like to contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Make your changes, ensuring they align with the existing structure and style.
-4. Commit your changes following the [Conventional Commits](https://www.conventionalcommits.org/) specification.
-5. Submit a pull request using the provided pull request template.
-
-Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed information on our contribution process, including guidelines for commit messages, coding standards, and how to use our development tools.
-
-## Development Tools
-
-### Pre-commit Hooks
-
-We use pre-commit hooks to enforce commit message standards. These hooks are managed by Husky and use commitlint to check commit messages against the Conventional Commits specification. The hooks are automatically set up when you run `npm install`.
-
-### Manual Changelog Generation
-
-We've provided a script to manually generate the changelog for specific releases or time periods. To use this script:
-
-1. Navigate to the project root directory.
-2. Run the script with a version number or 'from-last-tag':
-
-   ```sh
-   ./scripts/generate-changelog.sh 1.0.0
+   ```bash
+   git clone https://github.com/yourusername/erebus-nexus.git
    ```
 
-   or
+4. Once the cloning is complete, navigate into the cloned directory:
 
-   ```sh
-   ./scripts/generate-changelog.sh from-last-tag
+   ```bash
+   cd erebus-nexus
    ```
 
-### Pull Request Template
+### Introduction
 
-When creating a pull request, you'll see a template that guides you through providing necessary information about your changes. Please fill out this template to ensure your pull request can be reviewed effectively.
+Welcome to the Erebus Nexus repository! This section will guide you on how to get started with exploring the various aspects of the Erebus Nexus universe. Here, you'll find essential information to help you navigate the repository and make the most of its resources.
 
-## Changelog
+After cloning the repository, you can start exploring the various directories and their contents. Make sure to check the README files in each directory for detailed information on the structure and purpose of the content.
 
-For a detailed list of changes and version history, please see the [CHANGELOG.md](CHANGELOG.md) file. This changelog is automatically generated and updated using `auto-changelog` and GitHub Actions. It reflects the latest additions, modifications, and fixes to the repository based on our commit history.
+Additionally, you may want to set up your development environment by following any specific instructions provided in the respective directories.
 
-To ensure your contributions are properly reflected in the changelog:
-
-1. Follow the [Conventional Commits](https://www.conventionalcommits.org/) specification when writing commit messages.
-2. Use appropriate commit types (e.g., feat, fix, docs, style, refactor, perf, test, chore) to categorize your changes.
-
-The changelog is automatically updated with each push to the main branch and each new release. You can also manually generate the changelog using the provided script (see [Manual Changelog Generation](#manual-changelog-generation)).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[... Remaining content unchanged ...]

@@ -34,6 +34,41 @@ Erebus Nexus is a sprawling, dystopian megacity set in a distant future where co
 3. **Information Control**: Strict control and manipulation of information flow between tiers.
 4. **Underground Movements**: Resistance groups, black markets, and shadow organizations operate throughout the city.
 
+## Technology
+
+1. **Advancements**: Cutting-edge technologies that shape the world of Erebus Nexus.
+2. **Everyday Tech**: Common technologies used in different tiers of the city.
+3. **Restricted Tech**: Advanced technologies limited to certain tiers or groups.
+4. **Technological Impact**: How technology shapes society and the environment in Erebus Nexus.
+
+## Culture and Society
+
+1. **Tier-Specific Cultures**: Unique cultural norms and practices in each economic tier.
+2. **Subcultures**: Distinct cultural groups that exist within the larger society.
+3. **Traditions**: Rituals, celebrations, and customs that persist in the dystopian future.
+4. **Social Dynamics**: Interpersonal relationships and social structures across different tiers.
+
+## History
+
+1. **Timeline**: Chronological overview of major events in the history of Erebus Nexus.
+2. **Key Events**: Pivotal moments that shaped the current state of the city.
+3. **Historical Figures**: Profiles of individuals who played significant roles in shaping Erebus Nexus.
+4. **Era Overviews**: Summaries of different historical periods in the city's development.
+
+## Geography and Environment
+
+1. **Physical Layout**: Detailed descriptions of the city's structure and various layers.
+2. **Climate**: Information about weather patterns and environmental conditions in Erebus Nexus.
+3. **Ecosystems**: Natural and artificial ecosystems that exist within the city.
+4. **Environmental Challenges**: Issues such as pollution, resource scarcity, and their impacts on life in the city.
+
+## Languages
+
+1. **Common Languages**: Widely spoken languages across different tiers of Erebus Nexus.
+2. **Tier-Specific Dialects**: Unique linguistic variations in each economic tier.
+3. **Corporate Jargon**: Specialized language used in business and corporate settings.
+4. **Underground Slang**: Informal language used in lower tiers and subcultures.
+
 ## Narrative Themes
 
 1. **Power and Corruption**: The abuse of power and its consequences.

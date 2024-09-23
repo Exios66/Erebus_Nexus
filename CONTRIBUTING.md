@@ -42,12 +42,9 @@ We use the [Conventional Commits](https://www.conventionalcommits.org/) specific
 
 Each commit message consists of a **header**, a **body**, and a **footer**. The header has a special format that includes a **type**, a **scope**, and a **subject**:
 
-```
+```markdown
 <type>(<scope>): <subject>
 <BLANK LINE>
-<body>
-<BLANK LINE>
-<footer>
 ```
 
 ### Types
@@ -85,7 +82,8 @@ Breaking Changes should start with the word `BREAKING CHANGE:` with a space or t
 
 ### Example
 
-```
+```plaintext
+
 feat(economic_tiers): add new digital relics trade to Sprawl economy
 
 Implement a new economic system for trading digital relics in the Sprawl tier.

@@ -14,6 +14,7 @@ Welcome to the **Erebus Nexus** repository! This repository serves as a comprehe
   - [Research Papers](#research-papers)
   - [Characters](#characters)
   - [Media Shows](#media-shows)
+  - [Literature Series](#literature-series)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Development Tools](#development-tools)
@@ -34,10 +35,18 @@ Welcome to the **Erebus Nexus** repository! This repository serves as a comprehe
 - **Research Papers**: Access in-depth research documents covering various scientific and ethical topics relevant to Erebus Nexus.
 - **Characters**: Meet the key characters whose stories and actions drive the narrative of Erebus Nexus.
 - **Media Shows**: Discover the in-universe media content that influences public perception and societal norms.
+- **Literature Series**: Explore the narrative elements of the Erebus Nexus story, including acts, chapters, subplots, and scenes.
 
 ## Directory Structure
 
-[... Directory Structure content remains unchanged ...]
+[... Previous Directory Structure content remains unchanged ...]
+
+### Literature Series
+
+The `/literature_series/` directory contains the narrative elements of the Erebus Nexus story:
+
+- `/act_1/` and `/act_2/`: Each act contains subdirectories for chapters, subplots, and scenes.
+- `README.md`: Provides an overview of the literature series structure and guidelines for content creation.
 
 ## Getting Started
 

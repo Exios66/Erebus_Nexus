@@ -42,4 +42,15 @@ Erebus Nexus is a sprawling, dystopian megacity set in a distant future where co
 4. **Environmental Ethics**: The tension between technological progress and environmental sustainability.
 5. **Surveillance and Privacy**: The erosion of personal privacy in a hyper-connected society.
 
+## Literature Series
+
+The Erebus Nexus story is structured into a comprehensive literature series, organized as follows:
+
+1. **Acts**: The overarching narrative is divided into major acts, each representing a significant phase or arc in the story.
+2. **Chapters**: Within each act, chapters provide a more granular breakdown of the narrative progression.
+3. **Subplots**: These are secondary storylines that run parallel to the main plot, often focusing on specific characters or themes.
+4. **Scenes**: The most detailed level of the narrative, scenes depict specific moments, interactions, or events within the story.
+
+This structure allows for a rich, multi-layered storytelling approach that can fully explore the complex world of Erebus Nexus and its inhabitants.
+
 This overview provides a foundation for understanding the complex world of Erebus Nexus. Each element can be explored in greater depth through the various documents and narratives within this repository.

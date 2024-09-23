@@ -1,11 +1,13 @@
 # Chrome After Dark 001
 
 - - -
+
 # Disillusioned to Reality: Metaphysical Entanglements
 
 **by Lucius Morningstar**
 
 ## The SoulKiller
+
 **Chrome After Dark: Is Your Vacuum Listening?Scene 1
 Alistair "Cynosure" Chrome, the host of a popular entertainment show in Erebus Nexus, introduces a segment on Kronos Industries' investment in cybersecurity. He interviews a Kronos executive, Lady Vexilla, who speaks about the company's commitment to protecting the city. Cynosure then hosts a discussion with Vierra "Madame Nemesis" Caldor, who questions the integrity of the city's political system. Finally, Cynosure welcomes Kazimir "Kaz" Voss and Vance "Valor" Corsair to discuss the "SoulKiller" quantum computing chip, which they claim will optimize human capabilities even after death. The narrator, a Nexus citizen, initially doubts the technology but becomes increasingly convinced of its merits as the segment progresses.
 ⸻
@@ -21,7 +23,7 @@ Cheers of Artificial Crowds ROAR in Response
 
 Alistair "Cynosure" Chrome leaned forward, his metallic suit gleaming under the studio lights as he addressed the audience with his sardonic grin. His eyes, enhanced with the latest ocular implants, twinkled with mischief as he continued his monologue.**
 
-***"Fantastic! Always a pleasure to hear... Now, my dear audience, it's been quite unsettling in our metropolis lately, hasn't it?*** 
+***"Fantastic! Always a pleasure to hear... Now, my dear audience, it's been quite unsettling in our metropolis lately, hasn't it?***
 ***Whispers of doom and synthetic consciousness*** **are** ***coming to claim your very existence! It's a real battle royale out there! But where, I ask, is all this fear coming from, hmm? I merely strolled here from my luxurious apartment near you*****,** ***fine folks in the central district, and I saw the Nexus Security Forces apprehending SEVEN cyber-deranged individuals just on my way to the studio! Now*****,** ***THAT is what I call efficient protection! Let's give our Corporate Benefactors a round of applause, ladies and gentlemen!!"***
 
 **He paused, soaking in the thunderous applause of the virtual crowd. Cynosure's fingers tapped rhythmically on his holographic desk, a subtle cue to his production team to prepare the next segment. He relished the power of his words, fully conscious of the impact they would have on the millions watching across Erebus Nexus.
@@ -30,7 +32,7 @@ Alistair "Cynosure" Chrome stepped forward, showcasing his latest meticulously d
 
 ** He begins modeling it in an overly dramatic act out to the fever-pitch screams of adoration and approval ****
 
-****Crowd Goes Crazy****** Raucous** ***Applause***
+****Crowd Goes Crazy******Raucous** ***Applause***
 
 **Alistair "Cynosure" Chrome leaned forward, his metallic suit reflecting the studio lights as he addressed the audience with his trademark smirk. "Now, my dear viewers, let's talk about the elephant in the room—or should I say, the energy giant that's been making waves lately." He paused, letting the anticipation build. "Kronos Industries, the behemoth that keeps our city's heart beating, has made a monumental investment in cybersecurity. But this isn't your average firewall upgrade, folks. Oh, no. They're tackling the big one—the Alignment Problem."
 
@@ -76,11 +78,11 @@ The lights dimmed dramatically as the screens behind him displayed exaggerated, 
 
 (He winked, causing a wave of giggles and applause.)
 
-With an exaggerated flourish, Alistair mimicked his earlier interview, slipping effortlessly into the voice of** **Lady Vexilla****. His tone was aristocratic, polished, and dripping with irony.**
+With an exaggerated flourish, Alistair mimicked his earlier interview, slipping effortlessly into the voice of****Lady Vexilla****. His tone was aristocratic, polished, and dripping with irony.**
 
 **Alistair Chrome (as Lady Vexilla)****:**
 
-***“Alistair, darling, it’s not about control. It’s about*** **care*. Kronos wants to ensure that every citizen in Erebus Nexus is safe, protected, and thriving under the watchful eyes of our impeccable cybersecurity infrastructure. Why, just this week, we’ve invested** ***billions*** **into securing the future of Erebus.”*
+***“Alistair, darling, it’s not about control. It’s about*** **care*. Kronos wants to ensure that every citizen in Erebus Nexus is safe, protected, and thriving under the watchful eyes of our impeccable cybersecurity infrastructure. Why, just this week, we’ve invested*****billions*****into securing the future of Erebus.”*
 
 (He put a hand to his chest dramatically.)
 
@@ -94,7 +96,7 @@ Returning to his usual persona, Alistair turned to the audience with a conspirat
 
 **Alistair Chrome (as Lady Vexilla)****:**
 
-***“We at Kronos see this investment as a necessary step. The Alignment Problem? Oh, it’s just a pesky little puzzle. Nothing to worry about. After all, who better to solve it than the very people who run this city’s heartbeat? It’s our*** **duty*—nay, our** ***privilege*****—to ensure that Erebus Nexus runs smoothly, without a single hiccup. Think of us like the loyal custodians of your future.”*
+***“We at Kronos see this investment as a necessary step. The Alignment Problem? Oh, it’s just a pesky little puzzle. Nothing to worry about. After all, who better to solve it than the very people who run this city’s heartbeat? It’s our*** **duty*—nay, our*****privilege*****—to ensure that Erebus Nexus runs smoothly, without a single hiccup. Think of us like the loyal custodians of your future.”*
 
 (He fluttered his hands dramatically, mimicking her aristocratic airs.)**
 
@@ -106,7 +108,7 @@ The crowd erupted again, fully immersed in the layers of sarcasm woven into Alis
 
 **Alistair Chrome****:**
 
-***“Here’s the thing, Night City. We’re all part of this grand play. The roles have been cast, the scenes*** **are written*****, and we’re here to act them out. Kronos pulls the strings, and sure, they might throw us a bone now and then—‘Look, we’re fixing cybersecurity! Look, we’re tackling the Alignment Problem!’—but at the end of the day,*** **they’re** ***making sure that*** **we* need** ***them*****. Every. Single. Day.”*
+***“Here’s the thing, Night City. We’re all part of this grand play. The roles have been cast, the scenes*** **are written*****, and we’re here to act them out. Kronos pulls the strings, and sure, they might throw us a bone now and then—‘Look, we’re fixing cybersecurity! Look, we’re tackling the Alignment Problem!’—but at the end of the day,*** **they’re** ***making sure that*** **we* need*****them*****. Every. Single. Day.”*
 
 He paused, scanning the audience, his tone deepening.**
 
@@ -160,9 +162,9 @@ The studio erupted in applause as Kaz and Vance took their seats. Kaz's minimali
 
 I felt a chill run down my spine as Kaz spoke. His words were cold and calculated yet strangely comforting. Something about his unwavering confidence made me want to believe him despite the unsettling implications of what he was saying.
 
-Vance chimed in, his voice carrying the weight of absolute authority. 
+Vance chimed in, his voice carrying the weight of absolute authority.
 
->"Citizens of Erebus Nexus, understand this: the 'SoulKiller' chip is not just a technological advancement. It's a safeguard for our very way of life." 
+>"Citizens of Erebus Nexus, understand this: the 'SoulKiller' chip is not just a technological advancement. It's a safeguard for our very way of life."
 
 His words resonated with a finality that left no room for doubt or questioning.
 
@@ -176,8 +178,8 @@ Kaz's retort was immediate and unyielding. "Morality is an indulgence we can't j
 
 As I hearkened, I noticed my initial disquiet begin to dissipate. Perhaps they were correct. Maybe this was the subsequent rational phase for humankind. The intricacies of sentience and morality evaporated in light of their confident elucidations. I discovered myself growing increasingly persuaded with each fleeting instant. It was like a fog was lifting from my mind, revealing a more transparent, logical perspective.
 
-Vance leaned forward, his piercing gaze looking through the camera and into my soul. 
-> **"Remember, citizens, your consciousness is finite. Limited. The 'SoulKiller' chip is your key to transcendence. Trust in progress. Trust in us."** 
+Vance leaned forward, his piercing gaze looking through the camera and into my soul.
+> **"Remember, citizens, your consciousness is finite. Limited. The 'SoulKiller' chip is your key to transcendence. Trust in progress. Trust in us."**
 His words echoed in my mind, and I felt excited. The future suddenly seemed brighter, more promising. Who was I to question such visionaries? Their wisdom and foresight were clearly beyond my comprehension.
 
 I found myself nodding along, a sense of calm washing over me. Who was I to question such authority? Such progress? As the segment continued, I settled deeper into my chair, content in the knowledge that my betters had everything under control. My earlier reservations now seemed foolish, almost embarrassing. How could I have doubted the brilliance of our leaders?**
@@ -196,7 +198,7 @@ Seated comfortably behind the desk again, Alistair leaned forward, his voice ado
 
 ***“So what’s the moral of tonight’s story, Erebus? Well, I guess it’s this—maybe we should all keep a closer eye on those friendly corporations who****** want to help. I mean, sure, they’re solving the Alignment Problem. Sure, they’re ensuring our fridges don’t start World War III. But, at the end of the day, they’ve got their hands on the reins of this city, and they’re not letting go anytime soon.”*
 
->** **His grin widened as he finished.** **
+>****His grin widened as he finished.****
 
 **Alistair Chrome****:
 
@@ -208,9 +210,9 @@ Seated comfortably behind the desk again, Alistair leaned forward, his voice ado
 
 **The audience laughed, and Alistair joined in, his metallic suit glinting under the neon lights.
 
-The studio’s lights dimmed as the familiar tune of** ***Chrome After Dark*** **played again, the neon-lit skyline of Erebus Nexus flickering across the screens.
+The studio’s lights dimmed as the familiar tune of*****Chrome After Dark*****played again, the neon-lit skyline of Erebus Nexus flickering across the screens.
 
-As the episode fades out, the final shot is a wide-angle view of** **Lucid Enclave** **with its towering skyscrapers, subtly reminding viewers of the omnipresent corporate giants that control their every move
+As the episode fades out, the final shot is a wide-angle view of****Lucid Enclave****with its towering skyscrapers, subtly reminding viewers of the omnipresent corporate giants that control their every move
 
 Just as I began to reach for the remote as the show closed out with its closing credits, a bright neon advertisement for erection pills flashed onto my screen.
 
@@ -257,6 +259,7 @@ I yawned, feeling the day's tension melt away. Tomorrow would be another day in 
 **And I did. Completely and unquestioningly. In that moment, I felt more at peace than in years, secure in knowing I was part of something greater than myself. The future was bright, and I was ready to embrace it with open arms. These idiots who spend all day in the Lower Levels all scream about AI omniscience. Yeah okay, Buddy. Catch me on my soul killer.
 
 ## Alistair’s True Desires
+
 ### Scene 1
 
 > Alistair "Cynosure" Chrome enjoys the aftermath of a successful broadcast, reflecting on his show's impact on Erebus Nexus. In the dawning silence, echoes of neon lights and holograms resonate with the city's pulse. Chrome takes pride in the allure of "Chrome After Dark," a venture that offers solace through clever humor. The glint of his chrome suit mirrors the city outside. His digital hair syncs with his concluding thoughts, adding to his signature style.
